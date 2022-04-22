@@ -1,0 +1,8 @@
+D:\Full Tutorial\C#\program sederhana\program sederhana\bin\Debug\program sederhana.exe.config
+D:\Full Tutorial\C#\program sederhana\program sederhana\bin\Debug\program sederhana.exe
+D:\Full Tutorial\C#\program sederhana\program sederhana\bin\Debug\program sederhana.pdb
+D:\Full Tutorial\C#\program sederhana\program sederhana\obj\Debug\program sederhana.csproj.AssemblyReference.cache
+D:\Full Tutorial\C#\program sederhana\program sederhana\obj\Debug\program sederhana.csproj.SuggestedBindingRedirects.cache
+D:\Full Tutorial\C#\program sederhana\program sederhana\obj\Debug\program sederhana.csproj.CoreCompileInputs.cache
+D:\Full Tutorial\C#\program sederhana\program sederhana\obj\Debug\program sederhana.exe
+D:\Full Tutorial\C#\program sederhana\program sederhana\obj\Debug\program sederhana.pdb
